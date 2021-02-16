@@ -53,10 +53,6 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 - Python
 
-Read more about choices:
-- http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
-- http://blog.codingforinterviews.com/best-programming-language-jobs/
-
 [See language resources here](programming-language-resources.md)
 
 ## Book List
@@ -72,26 +68,63 @@ Read more about choices:
 
 ### If you have tons of extra time:
 
-Choose one:
-
 - [ ] [Elements of Programming Interviews in Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/)
 
 ### Language Specific
 
 **You need to choose a language for the interview (see above).**
 
+If you read through one of these, you should have all the data structures and algorithms knowledge you'll need to start doing coding problems.
 **You can skip all the video lectures in this project**, unless you'd like a review.
 
 [Additional language-specific resources here.](programming-language-resources.md)
 
 ### Python
 
-- [ ] [Data Structures and Algorithms in Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
+- [*in progres*] [Data Structures and Algorithms in Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
     - by Goodrich, Tamassia, Goldwasser
     - I loved this book. It covered everything and more
     - Pythonic code
     - my glowing book report: https://startupnextdoor.com/book-report-data-structures-and-algorithms-in-python/
-- [ ] [Open Data Structures in Python](https://opendatastructures.org/ods-python.pdf)
+
+
+ - [x]  Python Primer
+   [ ] Object-Oriented Programming
+   [ ] Algorithm Analysis
+   [ ] Recursion
+   [ ] Array-Based Sequences
+   [ ] Stacks, Queues, and Deques
+   [ ] Priority Queues
+   [ ] Maps, Hash Tables, and Skip Lists
+   [ ] Search Trees
+       [ ] Binary Search Trees
+       [ ] Balanced Search Trees
+       [ ] AVL Trees
+       [ ] Splay Trees
+       [ ] Trees
+       [ ] Red-Black Trees
+   [ ] Sorting and Selection
+       [ ] Merge-Sort
+       [ ] Quick-Sort
+       [ ] Selection
+   [ ] Selection
+       [ ] Pattern-Matching Algorithms
+       [ ] Dynamic Programming
+       [ ] Text Compression and the Greedy Method
+       [ ] Tries
+   [ ] Graph Algorithms
+       [ ] Data Structures for Graphs
+       [ ] Graph Traversals
+       [ ] Transitive Closure
+       [ ] Directed Acyclic Graphs
+       [ ] Shortest Paths
+       [ ] Minimum Spanning Trees
+   [ ] Memory Management and B-Trees
+       [ ] Memory Management
+       [ ] Memory Hierarchies and Caching
+       [ ] External Searching and B-Trees
+       [ ] External-Memory Sorting
+
 
 ## Before you Get Started
 
