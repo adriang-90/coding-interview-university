@@ -89,41 +89,41 @@ If you read through one of these, you should have all the data structures and al
 
 
  - [x]  Python Primer
-   [x] Object-Oriented Programming
-   [ ] Algorithm Analysis
-   [ ] Recursion
-   [ ] Array-Based Sequences
-   [ ] Stacks, Queues, and Deques
-   [ ] Priority Queues
-   [ ] Maps, Hash Tables, and Skip Lists
-   [ ] Search Trees
-       [ ] Binary Search Trees
-       [ ] Balanced Search Trees
-       [ ] AVL Trees
-       [ ] Splay Trees
-       [ ] Trees
-       [ ] Red-Black Trees
-   [ ] Sorting and Selection
-       [ ] Merge-Sort
-       [ ] Quick-Sort
-       [ ] Selection
-   [ ] Selection
-       [ ] Pattern-Matching Algorithms
-       [ ] Dynamic Programming
-       [ ] Text Compression and the Greedy Method
-       [ ] Tries
-   [ ] Graph Algorithms
-       [ ] Data Structures for Graphs
-       [ ] Graph Traversals
-       [ ] Transitive Closure
-       [ ] Directed Acyclic Graphs
-       [ ] Shortest Paths
-       [ ] Minimum Spanning Trees
-   [ ] Memory Management and B-Trees
-       [ ] Memory Management
-       [ ] Memory Hierarchies and Caching
-       [ ] External Searching and B-Trees
-       [ ] External-Memory Sorting
+ - [x] Object-Oriented Programming
+ - [ ] Algorithm Analysis
+ - [ ] Recursion
+ - [ ] Array-Based Sequences
+ - [ ] Stacks, Queues, and Deques
+ - [ ] Priority Queues
+ - [ ] Maps, Hash Tables, and Skip Lists
+ - [ ] Search Trees
+     - [ ] Binary Search Trees
+     - [ ] Balanced Search Trees
+     - [ ] AVL Trees
+     - [ ] Splay Trees
+     - [ ] Trees
+     - [ ] Red-Black Trees
+ - [ ] Sorting and Selection
+     - [ ] Merge-Sort
+     - [ ] Quick-Sort
+     - [ ] Selection
+ - [ ] Selection
+     - [ ] Pattern-Matching Algorithms
+     - [ ] Dynamic Programming
+     - [ ] Text Compression and the Greedy Method
+     - [ ] Tries
+ - [ ] Graph Algorithms
+     - [ ] Data Structures for Graphs
+     - [ ] Graph Traversals
+     - [ ] Transitive Closure
+     - [ ] Directed Acyclic Graphs
+     - [ ] Shortest Paths
+     - [ ] Minimum Spanning Trees
+ - [ ] Memory Management and B-Trees
+     - [ ] Memory Management
+     - [ ] Memory Hierarchies and Caching
+     - [ ] External Searching and B-Trees
+     - [ ] External-Memory Sorting
 
 
 ## Before you Get Started
