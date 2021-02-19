@@ -44,9 +44,9 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
     - [ ] [The Approach](https://www.youtube.com/watch?v=wCl9kvQGHPI)
     - [ ] [Problem Walkthrough](https://www.youtube.com/watch?v=4UWDyJq8jZg)
 - [ ] Prep Course:
-    - [ ] [Data Structures and Algorithms Nanodegree! (Udacity paid Nanodegree)](https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256):
+    - [*in progress*] [Data Structures and Algorithms Nanodegree! (Udacity paid Nanodegree)](https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256):
         - Get hands-on practice with over 100 data structures and algorithm exercises and guidance from a dedicated mentor to help prepare you for interviews and on-the-job scenarios.
-    - [ ] [Grokking the Behavioral Interview (Educative free course)](https://www.educative.io/courses/grokking-the-behavioral-interview):
+    - [*in progress*] [Grokking the Behavioral Interview (Educative free course)](https://www.educative.io/courses/grokking-the-behavioral-interview):
         - Many times, it’s not your technical competency that holds you back from landing your dream job, it’s how you perform on the behavioral interview.
 
 ## Pick One Language for the Interview
@@ -89,7 +89,7 @@ If you read through one of these, you should have all the data structures and al
 
 
  - [x]  Python Primer
-   [ ] Object-Oriented Programming
+   [x] Object-Oriented Programming
    [ ] Algorithm Analysis
    [ ] Recursion
    [ ] Array-Based Sequences
