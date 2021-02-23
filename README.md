@@ -91,7 +91,7 @@ If you read through one of these, you should have all the data structures and al
  - [x]  Python Primer
  - [x] Object-Oriented Programming
  - [x] Algorithm Analysis
- - [ ] Recursion
+ - [x] Recursion
  - [ ] Array-Based Sequences
  - [ ] Stacks, Queues, and Deques
  - [ ] Priority Queues
